@@ -1,15 +1,23 @@
-# Basic Sample Hardhat Project
+# NFT Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
-Try running some of the following tasks:
+### Storage constants and variables
+### Constructor
+### Reserve NFTs function
+### Setting Base Token URI
+### Mint NFTs function
+### Mint Single NFT function
+### Getting all tokens owned by a particular account
+### Withdraw balance function
+### Deploying the contract to Rinkeby
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+---
+---
+
+## Verifying my contract on Etherscan
+
+- [etherscan](https://rinkeby.etherscan.io/address/0x1a418a2a2459AC287BB1D2fAD2f536585Cc96b9D)
+
+## Viewing my NFTs on OpenSea
+
+- [OpenSea Testnet](https://testnets.opensea.io/collection/nft-maarouf-nl6s4rhqoz)
