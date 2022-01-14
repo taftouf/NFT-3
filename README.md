@@ -1,5 +1,7 @@
 # NFT Project
 
+NFT (non-fungible token) is a fascinating new technology that represents ownership of an asset digitally.
+
 ## contract explain
 
 ### Storage constants and variables
