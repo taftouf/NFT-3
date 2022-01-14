@@ -30,8 +30,7 @@ This function tell the contract that the baseTokenURI variable that I defined is
   this functions is for purchase and mint NFTs from the collection.
 
 ### Getting all tokens owned by a particular account
-
-that function is returns all IDs owned by a particular holder. 
+ 
 
 ### Withdraw balance function
 
